@@ -1,20 +1,20 @@
 [
   {
-    "name": "Pestotoast",
-    "url": "https://pestotoast.de/nextcloud/login",
-    "icon": "https://icons.duckduckgo.com/ip3/pestotoast.de.ico",
-    "slug": "pestotoast",
+    "name": "Nextcloud",
+    "url": "$NEXTCLOUD_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "nextcloud",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 743,
-    "timeDay": 743,
-    "timeWeek": 743,
-    "timeMonth": 743,
-    "timeYear": 743,
+    "time": 1155,
+    "timeDay": 1155,
+    "timeWeek": 1155,
+    "timeMonth": 1155,
+    "timeYear": 1155,
     "dailyMinutesDown": {}
   }
 ]

@@ -1,20 +1,20 @@
 [
   {
-    "name": "Google",
+    "name": "Pestotoast",
     "url": "https://pestotoast.de",
     "icon": "https://icons.duckduckgo.com/ip3/pestotoast.de.ico",
-    "slug": "google",
+    "slug": "pestotoast",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 763,
-    "timeDay": 763,
-    "timeWeek": 763,
-    "timeMonth": 763,
-    "timeYear": 763,
+    "time": 603,
+    "timeDay": 603,
+    "timeWeek": 603,
+    "timeMonth": 603,
+    "timeYear": 603,
     "dailyMinutesDown": {}
   }
 ]
